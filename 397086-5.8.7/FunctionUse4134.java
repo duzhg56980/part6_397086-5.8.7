@@ -1,0 +1,6 @@
+import cn.hutool.core.io.watch.WatchMonitor;
+public class FunctionUse4134 {
+public void funcUse() {
+WatchMonitor watchmonitor = new WatchMonitor();
+}
+}
